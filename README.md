@@ -1,6 +1,8 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
-
+## NAME : EZHILARASI N
+## REG NO : 212224040088
+## DATE : 19.9.2025
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
